@@ -1,17 +1,17 @@
 <h1 align="center">Marco Aurélio Ferreira</h1>
 
-<h3 align="center">Desenvolvedor de Software | Backend & Web</h3>
-
----
-
 <p align="center">
-  Formado em <b>Análise e Desenvolvimento de Sistemas (UNIP)</b> e estudante de <b>Engenharia de Software (Anhanguera)</b>.<br>
-  Focado na construção de soluções web robustas, desenvolvimento backend eficiente e boas práticas de engenharia de software.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vcenter=true&width=530&lines=Desenvolvedor+de+Software;Backend+%26+Web;ADS+%28UNIP%29+%26+Eng.+de+Software" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+<p align="center">
+  Formado em <b>Análise e Desenvolvimento de Sistemas (UNIP)</b> e estudante de <b>Engenharia de Software (Anhanguera)</b>.
+</p>
+🚀 <h1>Tecnologias & Ferramentas</h1>
 
 #### Linguagens & Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
