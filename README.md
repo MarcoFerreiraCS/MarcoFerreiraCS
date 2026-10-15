@@ -11,7 +11,7 @@
 <p align="center">
   Formado em <b>Análise e Desenvolvimento de Sistemas (UNIP)</b> e estudante de <b>Engenharia de Software (Anhanguera)</b>.
 </p>
-🚀 <h1>Tecnologias & Ferramentas</h1>
+ <h1>Tecnologias & Ferramentas</h1>
 
 #### Linguagens & Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
