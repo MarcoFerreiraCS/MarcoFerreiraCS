@@ -33,11 +33,12 @@
 
 <div align="center">
 <a href="https://github.com/MarcoFerreiraCS">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoFerreiraCS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=407BFF&icon_color=646CFF&text_color=434D58&bg_color=ffffff" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFerreiraCS&layout=compact&langs_count=6&hide_border=true&title_color=407BFF&text_color=434D58&bg_color=ffffff" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MarcoFerreiraCS&show_icons=true&hide_border=true&theme=transparent&title_color=407BFF&icon_color=646CFF&text_color=434D58&hide=contribs" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/MarcoFerreiraCS">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFerreiraCS&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=407BFF&text_color=434D58&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"/>
 </a>
 </div>
----
 
 ### 📫 Contactos / Conecta-te comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoferreiraa)
