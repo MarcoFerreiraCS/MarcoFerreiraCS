@@ -31,16 +31,12 @@
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MarcoFerreiraCS&show_icons=true&theme=default&hide_border=true&title_color=407BFF&icon_color=646CFF&text_color=434D58&include_all_commits=true" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFerreiraCS&layout=compact&theme=default&hide_border=true&title_color=407BFF&text_color=434D58&langs_count=6" />
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/MarcoFerreiraCS">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoFerreiraCS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=407BFF&icon_color=646CFF&text_color=434D58&bg_color=ffffff" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoFerreiraCS&layout=compact&langs_count=6&hide_border=true&title_color=407BFF&text_color=434D58&bg_color=ffffff" alt="Top Languages"/>
+</a>
+</div>
 ---
 
 ### 📫 Contactos / Conecta-te comigo:
